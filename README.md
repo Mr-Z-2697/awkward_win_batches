@@ -11,5 +11,5 @@ makeuci&makeheic:
 
 makeavif:
 1. for testing.
-2. it's slower, and not better than x265. (you can tweak "cpu-used" to get speed of course)
+2. it's slower, and not better than x265 in still image encoding. (you can tweak "cpu-used" to get speed of course)
 3. suggestion: don't use it.
